@@ -1,2 +1,2 @@
-# Disney_clone
-  React (Redux) | Node.js | Javascript
+# Disney_frotend
+React (Redux) | Node.js | Javascript
